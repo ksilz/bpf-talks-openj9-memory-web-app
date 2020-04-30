@@ -1,6 +1,6 @@
 {
   "name": "simple-shop",
-  "version": "0.0.1-SNAPSHOT",
+  "version": "1.0.0",
   "description": "Description for simple_shop",
   "private": true,
   "license": "UNLICENSED",
@@ -8,14 +8,14 @@
     "node_modules"
   ],
   "dependencies": {
-    "@angular/common": "9.0.4",
-    "@angular/compiler": "9.0.4",
-    "@angular/core": "9.0.4",
-    "@angular/forms": "9.0.4",
-    "@angular/localize": "9.0.4",
-    "@angular/platform-browser": "9.0.4",
-    "@angular/platform-browser-dynamic": "9.0.4",
-    "@angular/router": "9.0.4",
+    "@angular/common": "9.1.4",
+    "@angular/compiler": "9.1.4",
+    "@angular/core": "9.1.4",
+    "@angular/forms": "9.1.4",
+    "@angular/localize": "9.1.4",
+    "@angular/platform-browser": "9.1.4",
+    "@angular/platform-browser-dynamic": "9.1.4",
+    "@angular/router": "9.1.4",
     "@fortawesome/angular-fontawesome": "0.6.0",
     "@fortawesome/fontawesome-svg-core": "1.2.26",
     "@fortawesome/free-solid-svg-icons": "5.12.0",
@@ -34,9 +34,9 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {
-    "@angular/cli": "9.0.4",
-    "@angular/compiler-cli": "9.0.4",
-    "@ngtools/webpack": "9.0.4",
+    "@angular/cli": "9.1.4",
+    "@angular/compiler-cli": "9.1.4",
+    "@ngtools/webpack": "9.1.4",
     "@openapitools/openapi-generator-cli": "1.0.10-4.2.3",
     "@types/chai": "4.2.7",
     "@types/chai-string": "1.4.2",
